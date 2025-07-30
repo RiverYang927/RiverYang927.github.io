@@ -19,7 +19,7 @@ redirect_from:
 
 Greetings! I’m Zijiang Yang, a first-year Master of Science (MS) student in the Pratt School of Engineering at Duke University, majoring in Electrical and Computer Engineering (ECE).
 
-I earned a Bachelor of Engineering degree in Automation through a joint training program between Southwest University (SWU, China) and the University of Western Australia(UWA),under the supervision of Prof. Wei Huang.
+I earned a Bachelor of Engineering degree in Automation through a joint training program between Southwest University (SWU, China) and the University of Western Australia(UWA),under the supervision of Prof.Wei Huang.[[Link]](https://cis.swu.edu.cn/info/1185/4097.htm)
 
 
 <span class='anchor' id='-xl'></span>
@@ -67,5 +67,5 @@ Ranked 7 from 99 students
 
 # 💻 Internships
 - *July. 2024 - September. 2024*, Institute of Software Chinese Academic of Science, Beijing, China<br>
-- *July. 2023 - Sep. 2024*, Southwest University (DeepC Data Management System Project supervised by Prof.Yixin Zhao), Chongqing, China<br>
+- *July. 2023 - Sep. 2024*, Southwest University (DeepC Data Management System Project supervised by Prof.Yixin Zhao[[Link]](https://cis.swu.edu.cn/info/1013/4525.htm)), Chongqing, China<br>
 - *Mar. 2024 - Apr. 2024*, Chongqing Haiyun Jiexun Technology Co., LTD, Chongqing, China<br>
