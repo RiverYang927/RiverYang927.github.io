@@ -25,10 +25,10 @@ I earned a Bachelor of Engineering degree in Automation through a joint training
 <span class='anchor' id='-xl'></span>
 
 # 🎓 Educations
-- *2025.08 - 2027.06(Expected)*, <a href="https://duke.edu/"><img class="svg" src="/images/Duke_Logo.webp" width="23pt"></a> Duke University, Pratt School of Engineering, Durham, NC, USA
+- *2025.08 - 2027.06(Expected)*, <a href="https://duke.edu/"><img class="svg" src="/images/Duke_Logo.webp" width="23pt"></a> Duke University, Pratt School of Engineering, Durham, USA<br>
 Master of Science in Electrical and Computer Engineering
 
-- *2021.09 - 2025.06*, <a href="https://www.swu.edu.cn/"><img class="svg" src="/images/SWU_Logo.png" width="20pt"></a> Southwest University, College of Computer and Information Science & School of Software, Chongqing, China
+- *2021.09 - 2025.06*, <a href="https://www.swu.edu.cn/"><img class="svg" src="/images/SWU_Logo.png" width="20pt"></a> Southwest University, College of Computer and Information Science & School of Software, China<br>
 Bachelor of Engineering in Automation
  
 <span class='anchor' id='-lwzl'></span>
