@@ -17,9 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Greetings! I’m Zijiang Yang, a first-year Master of Science (MS) student in the Pratt School of Engineering at Duke University, majoring in Electrical and Computer Engineering (ECE).
-
-I earned a Bachelor of Engineering degree in Automation through a joint training program between Southwest University (SWU, China) and the University of Western Australia(UWA),under the supervision of Prof.Wei Huang[[Link]](https://cis.swu.edu.cn/info/1185/4097.htm).
+Greetings! I’m Zijiang Yang, I earned a Bachelor of Engineering degree in Automation through a joint training program between Southwest University (SWU, China) and the University of Western Australia(UWA),under the supervision of Prof.Wei Huang[[Link]](https://cis.swu.edu.cn/info/1185/4097.htm). I am recently a first-year Master of Science (MS) student in the Pratt School of Engineering at Duke University, majoring in Electrical and Computer Engineering (ECE). 
 
 
 <span class='anchor' id='-xl'></span>
@@ -69,6 +67,7 @@ Ranked 7 from 99 students
 - *July. 2023 - Sep. 2024*, Southwest University (DeepC Data Management System Project supervised by Prof.Yixin Zhao[[Link]](https://cis.swu.edu.cn/info/1013/4525.htm)), Chongqing, China<br>
 - *Mar. 2024 - Apr. 2024*, Chongqing Haiyun Jiexun Technology Co., LTD, Chongqing, China<br>
 
+
 # 🥤 Extracurricular Activity
-- *Sept. 2021 - Present*, RED Note（id：825697520）content creator with approximately 1,600 followers <br>
-- *Aug. 2023*, Academic and Cultural Visit at University of Western Australia (UWA)<br>
+- *Sept. 2021 - Present*, RED Note content creator[[Download]](https://www.xiaohongshu.com/user/profile/5eedaea6000000000100025a) with approximately 1,600 followers👀 <br>
+- *Aug. 2023*, Academic and Cultural Visit at University of Western Australia (UWA)🦘 <br>
