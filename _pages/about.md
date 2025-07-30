@@ -29,7 +29,9 @@ I earned a Bachelor of Engineering degree in Automation through a joint training
 Master of Science in Electrical and Computer Engineering
 
 - *2021.09 - 2025.06*, <a href="https://www.swu.edu.cn/"><img class="svg" src="/images/SWU_Logo.png" width="20pt"></a> Southwest University, College of Computer and Information Science, China<br>
-Bachelor of Engineering in Automation
+Bachelor of Engineering in Automation<br>
+GPA: 4.14/5.0 <br>
+Ranked 7 from 99 students
  
 <span class='anchor' id='-lwzl'></span>
 
@@ -66,7 +68,7 @@ Bachelor of Engineering in Automation
 
 <span class='anchor' id='-gzsx'></span>
 
-# 💻 工作实习
+# 💻 Internships
 - *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
 - *2020.11.25 - 2020.12.02*, 湖北新冶钢有限公司, 湖北黄石
 - *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉
