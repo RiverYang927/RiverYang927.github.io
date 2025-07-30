@@ -35,7 +35,7 @@ Bachelor of Engineering in Automation
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/paper1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Smart Bandwidth Control</div><img src='images/paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	Z. Chen, X. Wu and `Z. Yang`, "Intelligent Scheduling Strategy with Bandwidth Feedback in Networked Control Systems," 2024 China Automation Congress (CAC), Qingdao, China, 2024, pp. 4477-4482, doi: 10.1109/CAC63892.2024.10864522.
@@ -50,7 +50,7 @@ Bachelor of Engineering in Automation
 
 <span class='anchor' id='-ryjx'></span>
 
-# 🏅 荣誉奖项
+# 🏅 Honors and Awards
 - *2015.11* 获得 第十四届“挑战杯”全国大学生课外学术科技作品竞赛 `一等奖`  
 - *2015.06* 获得 第十三届“挑战杯”四川大学生课外学术科技作品竞赛 `一等奖` [[新闻]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)  
 - *2014.12* 获得 第四届全国大学生工程训练综合能力竞赛（四川赛区） `一等奖`  
