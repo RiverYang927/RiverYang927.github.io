@@ -35,9 +35,7 @@ Bachelor of Engineering in Automation
 
 # 📝 Publications
 
-### 英文
----
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	Z. Chen, X. Wu and `Z. Yang`, "Intelligent Scheduling Strategy with Bandwidth Feedback in Networked Control Systems," 2024 China Automation Congress (CAC), Qingdao, China, 2024, pp. 4477-4482, doi: 10.1109/CAC63892.2024.10864522.
