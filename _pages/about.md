@@ -17,7 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-大家好，我是西南大学的
+Hello! I’m Zijiang Yang, a first-year Master of Science (MS) student in the Pratt School of Engineering at Duke University, majoring in Electrical and Computer Engineering (ECE).
+
+I earned a Bachelor of Engineering degree in Automation through a joint training program between Southwest University (China) and the University of Western Australia.
+
  <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 我的研究领域包括：
