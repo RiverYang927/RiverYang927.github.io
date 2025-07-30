@@ -69,5 +69,5 @@ Ranked 7 from 99 students
 
 
 # 🥤 Extracurricular Activity
-- *Sept. 2021 - Present*, RED Note content creator[[Download]](https://www.xiaohongshu.com/user/profile/5eedaea6000000000100025a) with approximately 1,600 followers👀 <br>
+- *Sept. 2021 - Present*, RED Note content creator[[Link]](https://www.xiaohongshu.com/user/profile/5eedaea6000000000100025a) with approximately 1,600 followers👀 <br>
 - *Aug. 2023*, Academic and Cultural Visit at University of Western Australia (UWA)🦘 <br>
