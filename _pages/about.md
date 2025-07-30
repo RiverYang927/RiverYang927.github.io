@@ -25,8 +25,11 @@ I earned a Bachelor of Engineering degree in Automation through a joint training
 <span class='anchor' id='-xl'></span>
 
 # 🎓 Educations
-- *2025.08 - 2027.06*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 华中科技大学 机械科学与工程学院, 湖北武汉, 推免直博 
-- *2021.09 - 2025.06*, <a href="https://www.swu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> Southwest University  College of Computer and Information Science & Scholl of Software, Chongqing, Bachelor
+- *2025.08 - 2027.06(Expected)*, <a href="https://duke.edu/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> Duke University, Pratt School of Engineering, Durham, NC, USA
+Master of Science in Electrical and Computer Engineering
+
+- *2021.09 - 2025.06*, <a href="https://www.swu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> Southwest University, College of Computer and Information Science & School of Software, Chongqing, China
+Bachelor of Engineering in Automation
  
 <span class='anchor' id='-lwzl'></span>
 
