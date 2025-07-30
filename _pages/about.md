@@ -21,9 +21,7 @@ redirect_from:
  <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 我的研究领域包括：
-- 仪器仪表
-
-  
+- 自动控制
 
 
 <span class='anchor' id='-xl'></span>
