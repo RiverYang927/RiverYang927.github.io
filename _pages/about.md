@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I’m Zijiang Yang, a first-year Master of Science (MS) student in the Pratt School of Engineering at Duke University, majoring in Electrical and Computer Engineering (ECE).
+Hello! I’m Yang, a first-year Master of Science (MS) student in the Pratt School of Engineering at Duke University, majoring in Electrical and Computer Engineering (ECE).
 
 I earned a Bachelor of Engineering degree in Automation through a joint training program between Southwest University (SWU, China) and the University of Western Australia(UWA).
 
