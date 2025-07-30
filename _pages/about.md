@@ -17,10 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Greetings! I’m Zijiang Yang, I earned a Bachelor of Engineering degree in Automation through a joint training program between Southwest University (SWU, China) and the University of Western Australia(UWA),under the supervision of Prof.Wei Huang[[Link]](https://cis.swu.edu.cn/info/1185/4097.htm). I am recently a first-year Master of Science (MS) student in the Pratt School of Engineering at Duke University, majoring in Electrical and Computer Engineering (ECE). 
+Greetings! I’m Zijiang Yang, currently a first-year Master of Science (MS) student in the Pratt School of Engineering at Duke University, majoring in Electrical and Computer Engineering (ECE).
 
-Electrical and Computer Engineering (ECE) is deeply rooted in the foundations of signal processing, communications, and control. During my undergraduate studies as a AUTOMATION student, I devoted substantial time to mastering these fundamental areas, which I believe equips me with a strong background to grow rapidly at Duke.
+I earned my Bachelor of Engineering degree in Automation through a joint training program between Southwest University (SWU, China) and the University of Western Australia (UWA), under the supervision of Prof. Wei Huang[[Link]](https://cis.swu.edu.cn/info/1185/4097.htm).
 
+Electrical and Computer Engineering (ECE) is deeply rooted in signal processing, communications, and control. During my undergraduate studies in Automation, I devoted substantial time to mastering these areas, which has equipped me with a strong background to grow rapidly at Duke.
 
 <span class='anchor' id='-xl'></span>
 
