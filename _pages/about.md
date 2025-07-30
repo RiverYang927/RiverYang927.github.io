@@ -30,7 +30,7 @@ Master of Science in Electrical and Computer Engineering
 
 - *2021.09 - 2025.06*, <a href="https://www.swu.edu.cn/"><img class="svg" src="/images/SWU_Logo.png" width="20pt"></a> Southwest University, College of Computer and Information Science, China<br>
 Bachelor of Engineering in Automation<br>
-GPA: 4.14/5.0 （Ranked 7 from 99 students）<br>
+GPA: 4.14/5.0 <br>
 IELTS Academic Band 7 , TOEFL iBT 101 Scores
  
 <span class='anchor' id='-lwzl'></span>
