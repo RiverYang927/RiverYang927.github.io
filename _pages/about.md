@@ -33,15 +33,15 @@ Bachelor of Engineering in Automation
  
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 论文专利
+# 📝 Publications
 
 ### 英文
 ---
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Jian Tang`, Rongbiao Wang, Gongzhe Qiu, Yu Hu, Yihua Kang. Mechanism of magnetic flux leakage detection method based on the slotted ferromagnetic lift-off layer. *Sensors*, 2022, 22(9): 3587. (JCR:Q2; IF:3.847)  
-[[网页]](https://dx.doi.org/10.3390/s22093587) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[下载]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+-	Z. Chen, X. Wu and `Z. Yang`, "Intelligent Scheduling Strategy with Bandwidth Feedback in Networked Control Systems," 2024 China Automation Congress (CAC), Qingdao, China, 2024, pp. 4477-4482, doi: 10.1109/CAC63892.2024.10864522.
+ [[Download]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10864522)
 
 </div>
 </div>
