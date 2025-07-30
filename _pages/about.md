@@ -66,6 +66,6 @@ Ranked 7 from 99 students
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 Internships
-- *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
-- *2020.11.25 - 2020.12.02*, 湖北新冶钢有限公司, 湖北黄石
-- *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉
+- *July. 2024 - September. 2024*, Institute of Software Chinese Academic of Science, Beijing, China<br>
+- *Jul. 2023 - Sep. 2024*, Southwest University (DeepC Data Management System Project supervised by Prof.Yixin Zhao), Chongqing, China<br>
+- *Mar. 2024 - Apr. 2024*, Chongqing Haiyun Jiexun Technology Co., LTD, Chongqing, China<br>
