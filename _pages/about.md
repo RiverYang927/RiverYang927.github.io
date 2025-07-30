@@ -52,14 +52,14 @@ Ranked 7 from 99 students
 # 🏅 Honors and Awards 
 ### Honors
 - *2025.05* **Student Ambassador of Southwest University（18/University Students）** 
-- *2025.05* **Outstanding Bachelor's Graduate of Southwest University**  
+- *2025.05* **Outstanding Bachelor's Graduate**，Southwest University  
 - *2024.11* **Outstanding Cadre**, Southwest University    
 - *2022.11* **Merit Student**, Southwest University  
 
 ### Awards
 - *2022.11, 2023.11 & 2024.11* **Third Prize Scholarship for Academic Performance**, Southwest University  
 - *2023.11* **Striving Award**, Southwest University  
-- *2022.12* **Third Prize**, Southwest University Sports Science Popularization Contest  
+- *2022.12* **Third Prize in the Sports Science Outreach Competition**, Southwest University   
 
 
 
