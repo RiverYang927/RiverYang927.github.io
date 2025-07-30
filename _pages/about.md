@@ -70,6 +70,6 @@ IELTS Academic Band 7 , TOEFL iBT 101 Scores
 - *Mar. 2024 - Apr. 2024*, Chongqing Haiyun Jiexun Technology Co., LTD, Chongqing, China<br>
 
 
-# 🥤 Extracurricular Activity
+# 🥤 Extracurricular Activities
 - *Sept. 2021 - Present*, RED Note content creator[[Link]](https://www.xiaohongshu.com/user/profile/5eedaea6000000000100025a) with approximately 1,600 followers👀 <br>
 - *Aug. 2023*, Academic and Cultural Visit at University of Western Australia (UWA)🦘 <br>
