@@ -47,14 +47,11 @@ Ranked 7 from 99 students
 </div>
 
 
-
-
-
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 Honors and Awards 
 ### Honors
-- *2025.05* **Student Ambassador of Southwest University** 
+- *2025.05* **Student Ambassador of Southwest University（18/University Students）** 
 - *2025.05* **Outstanding Bachelor's Graduate of Southwest University**  
 - *2024.11* **Outstanding Cadre**, Southwest University    
 - *2022.11* **Merit Student**, Southwest University  
