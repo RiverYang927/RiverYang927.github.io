@@ -19,13 +19,13 @@ redirect_from:
 
 Greetings! I’m Zijiang Yang, a first-year Master of Science (MS) student in the Pratt School of Engineering at Duke University, majoring in Electrical and Computer Engineering (ECE).
 
-I earned a Bachelor of Engineering degree in Automation through a joint training program between Southwest University (SWU, China) and the University of Western Australia(UWA),under the supervision of Prof.Wei Huang.[[Link]](https://cis.swu.edu.cn/info/1185/4097.htm)
+I earned a Bachelor of Engineering degree in Automation through a joint training program between Southwest University (SWU, China) and the University of Western Australia(UWA),under the supervision of Prof.Wei Huang[[Link]](https://cis.swu.edu.cn/info/1185/4097.htm).
 
 
 <span class='anchor' id='-xl'></span>
 
 # 🎓 Educations
-- *2025.08 - 2027.06(Expected)*, <a href="https://duke.edu/"><img class="svg" src="/images/Duke_Logo.webp" width="23pt"></a> Duke University, Pratt School of Engineering, Durham, USA<br>
+- *2025.08 - 2027.05(Expected)*, <a href="https://duke.edu/"><img class="svg" src="/images/Duke_Logo.webp" width="23pt"></a> Duke University, Pratt School of Engineering, Durham, USA<br>
 Master of Science in Electrical and Computer Engineering
 
 - *2021.09 - 2025.06*, <a href="https://www.swu.edu.cn/"><img class="svg" src="/images/SWU_Logo.png" width="20pt"></a> Southwest University, College of Computer and Information Science, China<br>
@@ -62,10 +62,13 @@ Ranked 7 from 99 students
 - *2022.12* **Third Prize in the Sports Science Outreach Competition**, Southwest University   
 
 
-
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 Internships
 - *July. 2024 - September. 2024*, Institute of Software Chinese Academic of Science, Beijing, China<br>
 - *July. 2023 - Sep. 2024*, Southwest University (DeepC Data Management System Project supervised by Prof.Yixin Zhao[[Link]](https://cis.swu.edu.cn/info/1013/4525.htm)), Chongqing, China<br>
 - *Mar. 2024 - Apr. 2024*, Chongqing Haiyun Jiexun Technology Co., LTD, Chongqing, China<br>
+
+# 🥤 Extracurricular Activity
+- *Sept. 2021 - Present*, RED Note（id：825697520）content creator with approximately 1,600 followers <br>
+- *Aug. 2023*, Academic and Cultural Visit at University of Western Australia (UWA)<br>
