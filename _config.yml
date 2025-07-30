@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zijiang Yang"
-description              : "Pratt School of "
+description              : " "
 repository               : "RiverYang927/RiverYang927.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -24,7 +24,7 @@ author:
   name             : "Zijiang Yang"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Duke University"
-  location         : "Durham USA"
+  location         : "Durham NC，USA"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=WMkMTb4AAAAJ"
