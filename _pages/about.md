@@ -50,17 +50,19 @@ Bachelor of Engineering in Automation
 
 <span class='anchor' id='-ryjx'></span>
 
-# 🏅 Honors and Awards
-- *2015.11* 获得 第十四届“挑战杯”全国大学生课外学术科技作品竞赛 `一等奖`  
-- *2015.06* 获得 第十三届“挑战杯”四川大学生课外学术科技作品竞赛 `一等奖` [[新闻]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)  
-- *2014.12* 获得 第四届全国大学生工程训练综合能力竞赛（四川赛区） `一等奖`  
+# 🏅 Honors and Awards 
+### Honors
+- *2025.05* **Student Ambassador of Southwest University** 
+- *2025.05* **Outstanding Bachelor's Graduate of Southwest University**  
+- *2024.11* **Outstanding Cadre**, Southwest University    
+- *2022.11* **Merit Student**, Southwest University  
 
-<span class='anchor' id='-xshy'></span>
+### Awards
+- *2022.11, 2023.11 & 2024.11* **Third Prize Scholarship for Academic Performance**, Southwest University  
+- *2023.11* **Striving Award**, Southwest University  
+- *2022.12* **Third Prize**, Southwest University Sports Science Popularization Contest  
 
-# 🏛️ 学术会议
-- *2021.10*, 全国电磁无损检测技术研讨会 暨 中国机械工程学会无损检测分会电磁专业技术大会第十一届第四次全体会议, 陕西西安, 受邀报告
-- *2019.09*, 第十九届国际应用电磁学与力学会议 (ISEM 2019), 江苏南京, 海报
-- *2017.10*, 第六届中国国际管道会议 (CIPC 2017), 河北廊坊
+
 
 <span class='anchor' id='-gzsx'></span>
 
