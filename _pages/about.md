@@ -66,7 +66,7 @@ IELTS Academic: Band 7 , TOEFL iBT: 101
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 Internships
-- *July. 2024 - September. 2024*, Institute of Software Chinese Academic of Science, Beijing, China<br>
+- *July. 2024 - Sep. 2024*, Institute of Software Chinese Academic of Science, Beijing, China<br>
 - *July. 2023 - Sep. 2024*, Southwest University (DeepC Data Management System Project supervised by Prof.Yixin Zhao[[Link]](https://cis.swu.edu.cn/info/1013/4525.htm)), Chongqing, China<br>
 - *Mar. 2024 - Apr. 2024*, Chongqing Haiyun Jiexun Technology Co., LTD, Chongqing, China<br>
 
