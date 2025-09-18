@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Greetings! I’m Zijiang Yang, currently a first-year Master of Science (MS) student in the Pratt School of Engineering at Duke University, majoring in Electrical and Computer Engineering (ECE), under the academic guidance of Professor Robert Calderbank[[Link]](https://ece.duke.edu/people/robert-calderbank/).
+Greetings! I’m Zijiang Yang, currently a first-year Master of Science (MS) student in the Pratt School of Engineering at Duke University, majoring in Electrical and Computer Engineering, under the academic guidance of Professor Robert Calderbank[[Link]](https://ece.duke.edu/people/robert-calderbank/).
 
 I earned my Bachelor of Engineering degree in Automation through a joint training program between Southwest University (SWU, China) and the University of Western Australia (UWA), under the supervision of Prof. Wei Huang[[Link]](https://cis.swu.edu.cn/info/1185/4097.htm).
 
